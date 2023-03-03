@@ -1,2 +1,2 @@
 print("welcome!!")
-print(1+2)
+print("to git")
